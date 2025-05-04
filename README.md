@@ -1,65 +1,88 @@
-# 📦 Fasedem
+# **FASEDEM**  
+**Client Project under JUCOD**  
+**Version:** V1 – May 3, 2025  
+**Category:** JUCOD – Website Maintenance & Development  
 
-## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+---
 
-## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+## 🧭 Overview  
+**FASEDEM** is an informational website managed for a client in Mexico. The organization provides services and educational support across various regions. The goal of the project was to ensure the site remained secure, functional, and up-to-date, while maintaining a modern and professional look.
 
-## ✨ Features & Functionality
-- Bullet list of main features 
+---
 
-## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+## 💡 Idea & Concept  
+The client needed a reliable web development partner to help maintain and manage their website, update visual content, introduce new pages, and perform ongoing security and server upgrades. I was contracted through JUCOD to take over and enhance their digital operations.
 
-## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+---
 
-## 🚀 Installation & Setup
-- **Prerequisites:** 
+## ✨ Features & Functionality  
+- Multi-page WordPress website  
+- Responsive and SEO-optimized layout  
+- Dynamic image and content updates  
+- Contact forms with email routing  
+- Server migration with DNS management  
+- Enhanced website security and backups  
+- Plugin/theme management and PHP version control  
+- Marketing tools and analytics integrations  
 
-- **Installation Steps:** 
+---
 
-- **Deployment Environment:** 
+## ⚙️ Tech Stack  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-- **Access:** 
+---
 
-> **Note:** 
+## 🏗 Architecture & Design  
+- WordPress CMS hosted on a managed server  
+- Elementor used for flexible layout control  
+- Updated design to match brand identity and modern UX trends  
+- Backup and recovery setup to prevent data loss  
 
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
+---
 
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+## 🚀 Installation & Setup  
+- Migrated from an outdated hosting provider to a secure, modern solution  
+- Configured DNS and SSL  
+- Established regular maintenance plan and auto-backups  
+- Set up admin access for the client team  
 
-## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+---
 
-## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
+## 🧑‍💻 My Role & Contributions  
+- 🧩 Full website administrator and developer  
+- 🔁 Routine maintenance and updates  
+- 🛡 Improved security and plugin integrity  
+- 🧭 Provided training and documentation for client team  
+- ⚙️ Performed custom PHP and HTML tweaks when needed  
 
-## 🤝 Contributing
-- How other can contribute (if open source)
+---
 
-## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+## 🧗 Challenges & Learnings  
+- Migrating live site without downtime  
+- Resolving issues with broken themes and outdated plugins  
+- Coordinating with multiple client contacts for approvals  
 
-## 🔗 Additional Resources
-- **Documentation:** 
+---
 
-- **Related Projects:** 
+## 📈 Future Enhancements  
+- Redesign of full website  
+- Integration with third-party tools and learning platforms  
+- Blog and news section activation  
 
-- **Live Demo Link:** 
+---
+
+## 🤝 Contributing  
+This is a private project managed by JUCOD. For inquiries, contact the development team.
+
+---
+
+## 🪪 License  
+Website © FASEDEM / JUCOD. All rights reserved.
+
+---
+
+## 🔗 Additional Resources  
+- [JUCOD Project Dashboard](../GitHubDashboard.md)
